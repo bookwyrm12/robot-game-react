@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "@types/react": "18.0.29",
+    "@types/react-dom": "18.0.11",
+    "lodash": "4.17.21",
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0",
+    "react-scripts": "^5.0.0",
+    "typescript": "5.0.2"
+  },
+  "main": "/index.js",
+  "devDependencies": {
+    "react-scripts": "1.0.0"
+  },
+  "name": "6g7l4h",
+  "description": null,
+  "version": "0.0.86",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
